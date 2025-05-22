@@ -53,9 +53,4 @@ This project includes a Docker configuration to run the application in a contain
 
    The application will be available at [http://localhost:8080](http://localhost:8080).
 
-## 🎥 Demo
-
-Here’s a quick preview of the final product:
-
-![Demo](https://s8.ezgif.com/tmp/ezgif-8393737be371d4.gif)
 
