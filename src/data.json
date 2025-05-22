@@ -1,0 +1,584 @@
+[
+  {
+    "Country": "US",
+    "Region": "Alabama",
+    "RandomValue": 1,
+    "CountryName": "United States"
+  },
+  {
+    "Country": "US",
+    "Region": "Alaska",
+    "RandomValue": 3,
+    "CountryName": "United States"
+  },
+  {
+    "Country": "US",
+    "Region": "Arizona",
+    "RandomValue": 2,
+    "CountryName": "United States"
+  },
+  {
+    "Country": "US",
+    "Region": "California",
+    "RandomValue": 1,
+    "CountryName": "United States"
+  },
+  {
+    "Country": "US",
+    "Region": "Colorado",
+    "RandomValue": 3,
+    "CountryName": "United States"
+  },
+  {
+    "Country": "US",
+    "Region": "Florida",
+    "RandomValue": 2,
+    "CountryName": "United States"
+  },
+  {
+    "Country": "US",
+    "Region": "New York",
+    "RandomValue": 1,
+    "CountryName": "United States"
+  },
+  {
+    "Country": "US",
+    "Region": "Texas",
+    "RandomValue": 3,
+    "CountryName": "United States"
+  },
+  {
+    "Country": "GB",
+    "Region": "England",
+    "RandomValue": 2,
+    "CountryName": "United Kingdom"
+  },
+  {
+    "Country": "GB",
+    "Region": "Scotland",
+    "RandomValue": 1,
+    "CountryName": "United Kingdom"
+  },
+  {
+    "Country": "GB",
+    "Region": "Wales",
+    "RandomValue": 3,
+    "CountryName": "United Kingdom"
+  },
+  {
+    "Country": "GB",
+    "Region": "Northern Ireland",
+    "RandomValue": 2,
+    "CountryName": "United Kingdom"
+  },
+  {
+    "Country": "CA",
+    "Region": "Alberta",
+    "RandomValue": 1,
+    "CountryName": "Canada"
+  },
+  {
+    "Country": "CA",
+    "Region": "British Columbia",
+    "RandomValue": 3,
+    "CountryName": "Canada"
+  },
+  {
+    "Country": "CA",
+    "Region": "Ontario",
+    "RandomValue": 2,
+    "CountryName": "Canada"
+  },
+  {
+    "Country": "CA",
+    "Region": "Quebec",
+    "RandomValue": 1,
+    "CountryName": "Canada"
+  },
+  {
+    "Country": "CA",
+    "Region": "Nova Scotia",
+    "RandomValue": 3,
+    "CountryName": "Canada"
+  },
+  {
+    "Country": "AU",
+    "Region": "New South Wales",
+    "RandomValue": 2,
+    "CountryName": "Australia"
+  },
+  {
+    "Country": "AU",
+    "Region": "Queensland",
+    "RandomValue": 1,
+    "CountryName": "Australia"
+  },
+  {
+    "Country": "AU",
+    "Region": "Victoria",
+    "RandomValue": 3,
+    "CountryName": "Australia"
+  },
+  {
+    "Country": "AU",
+    "Region": "Western Australia",
+    "RandomValue": 2,
+    "CountryName": "Australia"
+  },
+  {
+    "Country": "AU",
+    "Region": "South Australia",
+    "RandomValue": 1,
+    "CountryName": "Australia"
+  },
+  {
+    "Country": "DE",
+    "Region": "Bavaria",
+    "RandomValue": 3,
+    "CountryName": "Germany"
+  },
+  {
+    "Country": "DE",
+    "Region": "Berlin",
+    "RandomValue": 2,
+    "CountryName": "Germany"
+  },
+  {
+    "Country": "DE",
+    "Region": "Hamburg",
+    "RandomValue": 1,
+    "CountryName": "Germany"
+  },
+  {
+    "Country": "DE",
+    "Region": "Hesse",
+    "RandomValue": 3,
+    "CountryName": "Germany"
+  },
+  {
+    "Country": "DE",
+    "Region": "North Rhine-Westphalia",
+    "RandomValue": 2,
+    "CountryName": "Germany"
+  },
+  {
+    "Country": "FR",
+    "Region": "Brittany",
+    "RandomValue": 1,
+    "CountryName": "France"
+  },
+  {
+    "Country": "FR",
+    "Region": "Grand Est",
+    "RandomValue": 3,
+    "CountryName": "France"
+  },
+  {
+    "Country": "FR",
+    "Region": "Île-de-France",
+    "RandomValue": 2,
+    "CountryName": "France"
+  },
+  {
+    "Country": "FR",
+    "Region": "Normandy",
+    "RandomValue": 1,
+    "CountryName": "France"
+  },
+  {
+    "Country": "FR",
+    "Region": "Provence-Alpes-Côte d'Azur",
+    "RandomValue": 3,
+    "CountryName": "France"
+  },
+  {
+    "Country": "JP",
+    "Region": "Hokkaido",
+    "RandomValue": 2,
+    "CountryName": "Japan"
+  },
+  {
+    "Country": "JP",
+    "Region": "Tokyo",
+    "RandomValue": 1,
+    "CountryName": "Japan"
+  },
+  {
+    "Country": "JP",
+    "Region": "Osaka",
+    "RandomValue": 3,
+    "CountryName": "Japan"
+  },
+  {
+    "Country": "JP",
+    "Region": "Kyoto",
+    "RandomValue": 2,
+    "CountryName": "Japan"
+  },
+  {
+    "Country": "JP",
+    "Region": "Okinawa",
+    "RandomValue": 1,
+    "CountryName": "Japan"
+  },
+  {
+    "Country": "CN",
+    "Region": "Beijing",
+    "RandomValue": 3,
+    "CountryName": "China"
+  },
+  {
+    "Country": "CN",
+    "Region": "Guangdong",
+    "RandomValue": 2,
+    "CountryName": "China"
+  },
+  {
+    "Country": "CN",
+    "Region": "Shanghai",
+    "RandomValue": 1,
+    "CountryName": "China"
+  },
+  {
+    "Country": "CN",
+    "Region": "Sichuan",
+    "RandomValue": 3,
+    "CountryName": "China"
+  },
+  {
+    "Country": "CN",
+    "Region": "Zhejiang",
+    "RandomValue": 2,
+    "CountryName": "China"
+  },
+  {
+    "Country": "IN",
+    "Region": "Maharashtra",
+    "RandomValue": 1,
+    "CountryName": "India"
+  },
+  {
+    "Country": "IN",
+    "Region": "Uttar Pradesh",
+    "RandomValue": 3,
+    "CountryName": "India"
+  },
+  {
+    "Country": "IN",
+    "Region": "Tamil Nadu",
+    "RandomValue": 2,
+    "CountryName": "India"
+  },
+  {
+    "Country": "IN",
+    "Region": "Karnataka",
+    "RandomValue": 1,
+    "CountryName": "India"
+  },
+  {
+    "Country": "IN",
+    "Region": "Gujarat",
+    "RandomValue": 3,
+    "CountryName": "India"
+  },
+  {
+    "Country": "BR",
+    "Region": "São Paulo",
+    "RandomValue": 2,
+    "CountryName": "Brazil"
+  },
+  {
+    "Country": "BR",
+    "Region": "Rio de Janeiro",
+    "RandomValue": 1,
+    "CountryName": "Brazil"
+  },
+  {
+    "Country": "BR",
+    "Region": "Minas Gerais",
+    "RandomValue": 3,
+    "CountryName": "Brazil"
+  },
+  {
+    "Country": "BR",
+    "Region": "Bahia",
+    "RandomValue": 2,
+    "CountryName": "Brazil"
+  },
+  {
+    "Country": "BR",
+    "Region": "Rio Grande do Sul",
+    "RandomValue": 1,
+    "CountryName": "Brazil"
+  },
+  {
+    "Country": "MX",
+    "Region": "Mexico City",
+    "RandomValue": 3,
+    "CountryName": "Mexico"
+  },
+  {
+    "Country": "MX",
+    "Region": "Jalisco",
+    "RandomValue": 2,
+    "CountryName": "Mexico"
+  },
+  {
+    "Country": "MX",
+    "Region": "Nuevo León",
+    "RandomValue": 1,
+    "CountryName": "Mexico"
+  },
+  {
+    "Country": "MX",
+    "Region": "Veracruz",
+    "RandomValue": 3,
+    "CountryName": "Mexico"
+  },
+  {
+    "Country": "MX",
+    "Region": "Puebla",
+    "RandomValue": 2,
+    "CountryName": "Mexico"
+  },
+  {
+    "Country": "RU",
+    "Region": "Moscow",
+    "RandomValue": 1,
+    "CountryName": "Russia"
+  },
+  {
+    "Country": "RU",
+    "Region": "Saint Petersburg",
+    "RandomValue": 3,
+    "CountryName": "Russia"
+  },
+  {
+    "Country": "RU",
+    "Region": "Novosibirsk",
+    "RandomValue": 2,
+    "CountryName": "Russia"
+  },
+  {
+    "Country": "RU",
+    "Region": "Yekaterinburg",
+    "RandomValue": 1,
+    "CountryName": "Russia"
+  },
+  {
+    "Country": "RU",
+    "Region": "Kazan",
+    "RandomValue": 3,
+    "CountryName": "Russia"
+  },
+  {
+    "Country": "IT",
+    "Region": "Lombardy",
+    "RandomValue": 2,
+    "CountryName": "Italy"
+  },
+  {
+    "Country": "IT",
+    "Region": "Lazio",
+    "RandomValue": 1,
+    "CountryName": "Italy"
+  },
+  {
+    "Country": "IT",
+    "Region": "Campania",
+    "RandomValue": 3,
+    "CountryName": "Italy"
+  },
+  {
+    "Country": "IT",
+    "Region": "Sicily",
+    "RandomValue": 2,
+    "CountryName": "Italy"
+  },
+  {
+    "Country": "IT",
+    "Region": "Veneto",
+    "RandomValue": 1,
+    "CountryName": "Italy"
+  },
+  {
+    "Country": "ES",
+    "Region": "Andalusia",
+    "RandomValue": 3,
+    "CountryName": "Spain"
+  },
+  {
+    "Country": "ES",
+    "Region": "Catalonia",
+    "RandomValue": 2,
+    "CountryName": "Spain"
+  },
+  {
+    "Country": "ES",
+    "Region": "Madrid",
+    "RandomValue": 1,
+    "CountryName": "Spain"
+  },
+  {
+    "Country": "ES",
+    "Region": "Valencia",
+    "RandomValue": 3,
+    "CountryName": "Spain"
+  },
+  {
+    "Country": "ES",
+    "Region": "Galicia",
+    "RandomValue": 2,
+    "CountryName": "Spain"
+  },
+  {
+    "Country": "KR",
+    "Region": "Seoul",
+    "RandomValue": 1,
+    "CountryName": "South Korea"
+  },
+  {
+    "Country": "KR",
+    "Region": "Busan",
+    "RandomValue": 3,
+    "CountryName": "South Korea"
+  },
+  {
+    "Country": "KR",
+    "Region": "Incheon",
+    "RandomValue": 2,
+    "CountryName": "South Korea"
+  },
+  {
+    "Country": "KR",
+    "Region": "Daegu",
+    "RandomValue": 1,
+    "CountryName": "South Korea"
+  },
+  {
+    "Country": "KR",
+    "Region": "Gwangju",
+    "RandomValue": 3,
+    "CountryName": "South Korea"
+  },
+  {
+    "Country": "NL",
+    "Region": "North Holland",
+    "RandomValue": 2,
+    "CountryName": "Netherlands"
+  },
+  {
+    "Country": "NL",
+    "Region": "South Holland",
+    "RandomValue": 1,
+    "CountryName": "Netherlands"
+  },
+  {
+    "Country": "NL",
+    "Region": "Utrecht",
+    "RandomValue": 3,
+    "CountryName": "Netherlands"
+  },
+  {
+    "Country": "NL",
+    "Region": "North Brabant",
+    "RandomValue": 2,
+    "CountryName": "Netherlands"
+  },
+  {
+    "Country": "NL",
+    "Region": "Gelderland",
+    "RandomValue": 1,
+    "CountryName": "Netherlands"
+  },
+  {
+    "Country": "SA",
+    "Region": "Riyadh",
+    "RandomValue": 3,
+    "CountryName": "Saudi Arabia"
+  },
+  {
+    "Country": "SA",
+    "Region": "Makkah",
+    "RandomValue": 2,
+    "CountryName": "Saudi Arabia"
+  },
+  {
+    "Country": "SA",
+    "Region": "Eastern Province",
+    "RandomValue": 1,
+    "CountryName": "Saudi Arabia"
+  },
+  {
+    "Country": "SA",
+    "Region": "Madinah",
+    "RandomValue": 3,
+    "CountryName": "Saudi Arabia"
+  },
+  {
+    "Country": "SA",
+    "Region": "Asir",
+    "RandomValue": 2,
+    "CountryName": "Saudi Arabia"
+  },
+  {
+    "Country": "ZA",
+    "Region": "Gauteng",
+    "RandomValue": 1,
+    "CountryName": "South Africa"
+  },
+  {
+    "Country": "ZA",
+    "Region": "Western Cape",
+    "RandomValue": 3,
+    "CountryName": "South Africa"
+  },
+  {
+    "Country": "ZA",
+    "Region": "KwaZulu-Natal",
+    "RandomValue": 2,
+    "CountryName": "South Africa"
+  },
+  {
+    "Country": "ZA",
+    "Region": "Eastern Cape",
+    "RandomValue": 1,
+    "CountryName": "South Africa"
+  },
+  {
+    "Country": "ZA",
+    "Region": "Free State",
+    "RandomValue": 3,
+    "CountryName": "South Africa"
+  },
+  {
+    "Country": "TR",
+    "Region": "Istanbul",
+    "RandomValue": 2,
+    "CountryName": "Turkey"
+  },
+  {
+    "Country": "TR",
+    "Region": "Ankara",
+    "RandomValue": 1,
+    "CountryName": "Turkey"
+  },
+  {
+    "Country": "TR",
+    "Region": "Izmir",
+    "RandomValue": 3,
+    "CountryName": "Turkey"
+  },
+  {
+    "Country": "TR",
+    "Region": "Antalya",
+    "RandomValue": 2,
+    "CountryName": "Turkey"
+  },
+  {
+    "Country": "TR",
+    "Region": "Bursa",
+    "RandomValue": 1,
+    "CountryName": "Turkey"
+  }
+]
